@@ -1,0 +1,27 @@
+nav{
+    background-color: #659266;
+    align-items: center;
+}
+
+.nav-links {
+    display: inline-block;
+    display: flex;
+}
+
+.nav-links ul li{
+    list-style: none;
+    display: inline-block;
+}
+
+.nav-links ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+p {
+    text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
